@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/iammiracle01/Responsive-Huddle-Landing-Page)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://iammiracle01.github.io/Responsive-Huddle-Landing-Page/)
 
 ## My process
 
