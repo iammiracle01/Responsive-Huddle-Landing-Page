@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+    background:url(./images/bg-desktop.svg);
+    background-color: hsl(257, 40%, 49%);
+}
+
+.logo{
+    width: auto;
+    font-family:'Poppins', sans-serif ;
+    font-weight: 400;
+    margin: 25px;
+}
+
+.wrapper{
+    display: flex;
+    margin: 25px;
+    flex-flow: row nowrap;
+}
+
+.info{
+    color: white;
+    margin: 50px;
+}
+
+h1{
+    font-family:'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.text{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+
+.btn{
+    border-radius: 50px;
+    border: none;
+    padding: 10px;
+    color: hsl(300, 69%, 71%);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    width: 10rem;
+}
+.btn:active{
+    background-color: hsl(300, 69%, 71%);
+    color: white;
+    cursor: pointer;
+}
+
+.foot{
+    display: flex;
+    justify-content: flex-end;
+    margin: 1rem;
+}
+
+.fa-brands{
+    color: white;
+    font-size: 1rem;
+    border-radius:50%;
+    border: 1px solid white;
+    padding: 0.5rem;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.fa-brands:active{
+    color: hsl(300, 69%, 71%);
+    border: 1px solid hsl(300, 69%, 71%);
+    cursor: pointer;
+}
+
+@media (max-width: 900px) {
+    .wrapper {
+      flex-direction: column;
+    }
+    .info{
+        text-align: center;
+    }
+    .foot{
+        justify-content: center;
+        margin: auto;
+    }
+  }
