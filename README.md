@@ -45,7 +45,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Fasuyi Miracle](https://github.com/iammiracle01)
+- Website - [Fasuyi Miracle Boluwatife](https://github.com/iammiracle01)
 - Frontend Mentor - [@iammiracle01](https://www.frontendmentor.io/profile/iammiracle01)
 - Twitter - [@iammiracle_01](https://www.twitter.com/iammiracle_01)
-
