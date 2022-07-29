@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://github.com/iammiracle01/Responsive-Huddle-Landing-Page)
 - Live Site URL: (https://your-live-site-url.com)
 
 ## My process
@@ -45,7 +45,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Fasuyi Miracle](https://github.com/iammiracle01)
+- Frontend Mentor - [@iammiracle01](https://www.frontendmentor.io/profile/iammiracle01)
+- Twitter - [@iammiracle_01](https://www.twitter.com/iammiracle_01)
 
